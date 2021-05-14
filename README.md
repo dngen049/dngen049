@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+![dngen049's GitHub stats](https://github-readme-stats.vercel.app/api?username=dngen049&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dngen049&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **dngen049/dngen049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
