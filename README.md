@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-
-![dngen049's GitHub stats](https://github-readme-stats.vercel.app/api?username=dngen049&count_private=true&show_icons=true&theme=tokyonight)
+I’m currently working with these languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dngen049&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+My most recent project is : 
+ - [opensea-clone](https://github.com/dngen049/opensea-clone): teaching myself about web3 and smart contract
+ - capstone project: Fintech app
 
 
 
